@@ -27,8 +27,21 @@
 // answer[1]=prompt("Как",'');
 // answer[2]=prompt("23",'');
 // document.write(answer);
-const uew=3224;
-console.log(`(${typeof(uew)})`);
-const шк = "Ничтожество";
-alert(`Привет, ${шк}`);
+
+console.log('arr '+  5);
+console.log('arr   '+"234");
+let incr= 10,
+decr=10;
+incr++;
+--decr;
+console.log(--decr,incr++);
+console.log(5%2);
+console.log(incr);
+// && - и
+// || - или
+const checked=true,
+urt=true;
+console.log(checked&&!false);
+
+
 
